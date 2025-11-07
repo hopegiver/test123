@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -30,7 +30,7 @@ body {
 
 .game-header h1 {
     font-size: 3em;
-    color: #667eea;
+    color: #4facfe;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
     letter-spacing: 3px;
 }
@@ -50,7 +50,7 @@ body {
 }
 
 .info-panel {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
     padding: 20px;
     border-radius: 15px;
     color: white;
@@ -83,11 +83,11 @@ body {
     background: #f8f9fa;
     padding: 20px;
     border-radius: 15px;
-    border: 2px solid #667eea;
+    border: 2px solid #4facfe;
 }
 
 .controls-info h2 {
-    color: #667eea;
+    color: #4facfe;
     margin-bottom: 15px;
     font-size: 1.2em;
 }
@@ -113,7 +113,7 @@ body {
     font-size: 1.1em;
     font-weight: bold;
     color: white;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
     border: none;
     border-radius: 10px;
     cursor: pointer;
@@ -143,7 +143,7 @@ body {
 #gameBoard {
     display: block;
     background: #0f0f1e;
-    border: 3px solid #667eea;
+    border: 3px solid #4facfe;
     border-radius: 10px;
 }
 
